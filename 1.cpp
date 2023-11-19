@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+
+//my homework 
 struct student
 {
     int id;
